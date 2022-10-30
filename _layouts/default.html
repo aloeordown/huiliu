@@ -1,0 +1,13 @@
+{% if page.url == "/404.html" %} {% endif %} {% if page.description %} {% assign desc = page.description %} {% else %} {% assign desc = site.description %} {% endif %} {% if page.url %} {% assign url = site.url | append: site.baseurl | append: page.url %} {% else %} {% assign url = site.url | append: site.baseurl | append: page.url %} {% endif %} {% if site.favicon %} {% endif %} {% if site.twitter_username %} {% endif %} {% if site.og_image %} {% endif %} {% if site.facebook_id %} {% endif %} {% if site.twitter_image %} {% else %} {% endif %}
+{% if site.ins_logo %}  {% endif %} {{ site.title }}
+{% for x in site.nav %} {% if x.name == "Resume" %}
+{{ x.name }} {% else %}
+{{ x.name }} {% endif %} {% if forloop.last == false %} / {% endif %}
+{% endfor %}
+{% if page.is_contact == true %}
+{% else %}
+{% endif %} {{ content }} {% if site.footer == true %}
+{{ site.footer_text }}
+
+{% endif %}
+{% if site.tracking_id %} {% endif %}
