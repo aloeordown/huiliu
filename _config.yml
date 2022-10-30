@@ -1,0 +1,24 @@
+title: Hui Liu
+url: "https://HuiLiu.github.io.com"
+baseurl: "/researcher"
+
+markdown: kramdown
+#ins_logo: "./photolh.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/aloeordown"
+footer_text: "Page design by Hui Liu"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "HuiLiu.pdf"
+ - name: "Contact"
+   link: "contact"
