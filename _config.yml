@@ -1,9 +1,9 @@
 title: Hui Liu
 url: "https://HuiLiu.github.io.com"
-baseurl: "/researcher"
+baseurl: "/Hui Liu"
 
 markdown: kramdown
-#ins_logo: "./photolh.png"
+#ins_logo: "./logo.png"
 
 tracking_id: #
 
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/Hui Liu/"
  - name: "Resume"
    link: "HuiLiu.pdf"
  - name: "Contact"
