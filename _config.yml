@@ -1,5 +1,5 @@
 title: Hui Liu
-url: "https://aloeordown.github.io/huiliu/"
+url: "https://aloeordown.com"
 baseurl: "/huiliu"
 
 markdown: kramdown
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/huiliu.github.io/"
+   link: "/huiliu/"
  - name: "Resume"
    link: "HuiLiu.pdf"
  - name: "Contact"
