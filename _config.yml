@@ -1,6 +1,6 @@
 title: Hui Liu
-url: "https://HuiLiu.github.io.com"
-baseurl: "/Hui Liu"
+url: "https://huiliu.github.io.com"
+baseurl: "/huiliu.github.io"
 
 markdown: kramdown
 #ins_logo: "./logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/Hui Liu/"
+   link: "/huiliu.github.io/"
  - name: "Resume"
    link: "HuiLiu.pdf"
  - name: "Contact"
