@@ -20,7 +20,7 @@ Software Testing, Software Security.
 
 ## Publications
 
-1. Hui Liu**bold**, Yunfang Li, Zhi Li: EARS2TF: A Tool for Automated Planning Test from Semi-formalized Requirements.\[[pdf](https://ksiresearch.org/seke/seke22paper/paper179.pdf)\]
+1. Hui Liu**bold**, Yunfang Li, Zhi Li: EARS2TF: A Tool for Automated Planning Test from Semi-formalized Requirements. \[[pdf](https://ksiresearch.org/seke/seke22paper/paper179.pdf)\]
 2. Hui Liu**bold**, Zhi Li: Automatic Generation of System-level Test Framework from Semi-formal Natural Language. (Under review)
 
 ---
