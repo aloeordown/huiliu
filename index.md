@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-![photolh](E:\documents\photolh.jpg)
+<img class="profile-picture" src="photolh.jpg">
 
 Hi! I am Hui Liu. I am a postgraduate student of Software Engineering at Guangxi Normal University, Guilin, Guangxi, P. R. China.
 
