@@ -26,7 +26,7 @@ Software Testing, Software Security.
 ---
 ## Project
 
-1. Adaptive cruise control traffic calming system, 2018.03-2002.03, National Innovation and Entrepreneurship Projects in China, **1**/5.
+1. Adaptive cruise control traffic calming system, 2018.03-2020.03, National Innovation and Entrepreneurship Projects in China, **1**/5.
 
 2. Guangxi Normal University **Outstanding Dissertation Cultivation Program Project**, 2021.03-2023.04.
 
