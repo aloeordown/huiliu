@@ -10,9 +10,9 @@ Hi! I am Hui Liu. I am a postgraduate student of Software Engineering at Guangxi
 
 ## Education
 
-B.Eng. School of Computer and Information, Anhui Normal University, 2016.09-2020.07.
+* B.Eng. School of Computer and Information, Anhui Normal University, 2016.09-2020.07.
 
-M.Eng. School of Computer Science and Information, Guangxi Normal University, 2020.09-2023.07.
+* M.Eng. School of Computer Science and Information, Guangxi Normal University, 2020.09-2023.07.
 
 ## Research Interest
 
@@ -32,19 +32,19 @@ Software Testing, Software Security.
 
 ## Honours and Awards
 
-Guangxi Normal University Third-class Scholarship, 2021, 2022 (two times)
+* Guangxi Normal University Third-class Scholarship, 2021, 2022 (two times)
 
-Anhui Normal University Third-class Scholarship, 2017, 2018, 2019, 2020 (four times)
+* Anhui Normal University Third-class Scholarship, 2017, 2018, 2019, 2020 (four times)
 
-**ACM ICPC Asia Nanjing Regional Contest**, Honorable Mention, 2020
+* **ACM ICPC Asia Nanjing Regional Contest**, Honorable Mention, 2020
 
-2nd Guangxi Collegiate Artificial Intelligence Design Contest, **The Third Prize**, 2020
+* 2nd Guangxi Collegiate Artificial Intelligence Design Contest, **The Third Prize**, 2020
 
-The 3rd Guangxi Collegiate Programming Contest, **The First Prise**, 2020
+* The 3rd Guangxi Collegiate Programming Contest, **The First Prise**, 2020
 
-"Huawei Cup" The 18th China Post-Graduate Mathematical Contest in Modeling, Successful Participation Award, 2021
+* "Huawei Cup" The 18th China Post-Graduate Mathematical Contest in Modeling, Successful Participation Award, 2021
 
-Mathematical Modelling School Trials,  **The Third Prize**, 2017
+* Mathematical Modelling School Trials,  **The Third Prize**, 2017
 
 ## Skills
 
