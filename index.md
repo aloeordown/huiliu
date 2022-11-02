@@ -12,7 +12,7 @@ Hi! I am Hui Liu. I am a postgraduate student of Software Engineering at Guangxi
 
 * B.Eng. School of Computer and Information, Anhui Normal University, 2016.09-2020.07.
 
-* M.Eng. School of Computer Science and Information, Guangxi Normal University, 2020.09-2023.07.
+* M.Eng. School of Computer Science and Engineering, Guangxi Normal University, 2020.09-2023.07.
 
 ## Research Interest
 
