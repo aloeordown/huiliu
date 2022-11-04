@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [aloe1999@qq.com](mailto:aloe1999@qq.com)
+* Email: [aloe1999@qq.com](mailto:aloe1999@qq.com), [huiliu729@gmail.com](mailto:huiliu729@gmail.com)
 
 * Phone: [+86 17355376604](tel:+86 17355376604)
 
