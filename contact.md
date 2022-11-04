@@ -21,6 +21,6 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Linkedin](https://www.linkedin.com/in/hui-liu-258061212/)
+2. [Twitter](https://twitter.com/AloeLiu)
+3. [Facebook](https://www.facebook.com/aloe.liu.94)
