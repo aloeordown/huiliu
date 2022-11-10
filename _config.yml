@@ -20,7 +20,8 @@ nav:
    link: "/huiliu/"
  - name: "Resume"
    link: "HuiLiu.pdf"
+ - name: "中文简历"
+   link: "HuiLiuChineseVer.pdf"
  - name: "Contact"
    link: "contact"
- - name: "中文网站"
-   link: "Chinesepp"
+
