@@ -24,4 +24,5 @@ nav:
    link: "HuiLiuChineseVer.pdf"
  - name: "Contact"
    link: "contact"
-
+ - name: "Blog"
+   link: "https://aloeordown.github.io/"
