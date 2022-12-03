@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photolh.png">
 
-Hi! I am Hui Liu. I am a postgraduate student of Software Engineering at Guangxi Normal University, Guilin, Guangxi, P. R. China.
+Hi! there 👋, I am Hui Liu. I am a postgraduate student of Software Engineering at Guangxi Normal University, Guilin, Guangxi, P. R. China.
 
 ## Education
 
@@ -14,9 +14,9 @@ Hi! I am Hui Liu. I am a postgraduate student of Software Engineering at Guangxi
 
 * B.Eng. School of Computer and Information, Anhui Normal University, 2016.09-2020.07.
 
-## Research Interest
+## Research Area
 
-Software Testing, Software Security, NLP.
+Software Security, Software Testing, Software requirements.
 
 ## Publications
 
@@ -48,8 +48,10 @@ Software Testing, Software Security, NLP.
 
 ## Skills
 
-Pytorch, Python, Java, C/C++, Latex.
+Java, Python, C/C++, HTML/CSS, Xtext, Xtend, React, Latex, Git, Markdown.
 
 ## Language
 
-CET-6: 486
+- **English** CET-6: 486
+
+- **Chinese** native language
