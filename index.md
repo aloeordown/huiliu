@@ -54,4 +54,4 @@ Java, Python, C/C++, HTML/CSS, Xtext, Xtend, React, Latex, Git, Markdown.
 
 - **English** CET-6: 486
 
-- **Chinese** native language
+- **Mandarin** native language
