@@ -16,7 +16,7 @@ Hi! there 👋, I am Hui Liu. I am a postgraduate student of Software Engineerin
 
 ## Research Area
 
-Software Security, Software Testing, Software requirements.
+Software Testing, Software requirements, Software Security.
 
 ## Publications
 
@@ -26,9 +26,9 @@ Software Security, Software Testing, Software requirements.
 ---
 ## Project
 
-1. Adaptive cruise control traffic calming system, 2018.03-2020.03, National Innovation and Entrepreneurship Projects in China, **1**/5.
+1. Adaptive cruise control traffic calming system, 2018.03-2020.03, National Innovation and Entrepreneurship Projects in China, **1**/5, Num：201810370137
 
-2. Guangxi Normal University **Outstanding Dissertation Cultivation Program Project**, 2021.03-2023.04.
+2. Research on Problem-Oriented Obstacles Identification for Security Testing, 2021.03-2023.04, Guangxi Normal University **Outstanding Dissertation Cultivation Program Project**, Num：2022EMT010
 
 ## Honours and Awards
 
