@@ -5,15 +5,15 @@ is_contact: true
 
 * Email: [aloe1999@qq.com](mailto:aloe1999@qq.com), [huiliu729@gmail.com](mailto:huiliu729@gmail.com)
 
-* Phone: [+86 17355376604](tel:+86 17355376604)
+* Phone: [+86 ](tel:+86 )
 
 ---
 
 ## Mailing Address
 
-> No. 15, Yvcai Road
+> No. 27, Zhaoyue Road
 >
-> Guilin, Guangxi
+> Guangzhou, Guangdong
 >
 > China
 
