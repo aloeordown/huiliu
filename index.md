@@ -6,7 +6,9 @@ layout: default
 
 <img class="profile-picture" src="photolh.png">
 
-Hi! there 👋, I am Hui Liu. I am a postgraduate student of Software Engineering at Guangxi Normal University, Guilin, Guangxi, P. R. China.
+Hi! there 👋, I am Hui Liu. I am currently an employee of China Tower, responsible for professional maintenance management. I obtained my Master's degree of Software Engineering in the autumn of 2023 from Guangxi Normal University. 
+
+Even though I've started working in the corporate world, pursuing a Ph.D. is still my dream. I am continuing to strive for it.🌟
 
 ## Education
 
@@ -48,10 +50,12 @@ Software Testing, Software requirements, Software Security.
 
 ## Skills
 
-Java, Python, C/C++, HTML/CSS, Xtext, Xtend, React, Latex, Git, Markdown.
+Python, Java, C/C++, HTML/CSS, Xtext, Xtend, React, Latex, Git, Markdown.
 
 ## Language
 
 - **English** CET-6: 486
 
 - **Mandarin** native language
+
+- **Cantonese**
