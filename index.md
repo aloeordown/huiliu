@@ -58,4 +58,4 @@ Python, Java, C/C++, HTML/CSS, Xtext, Xtend, React, Latex, Git, Markdown.
 
 - **Mandarin** native language
 
-- **Cantonese** learning
+- **Cantonese** still learning
