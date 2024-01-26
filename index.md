@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="photoLH.png">
+<img class="profile-picture" src="photoLH.jpg">
 
 Hi! there 👋, I am Hui Liu. I am currently an employee of China Tower, responsible for professional maintenance management. I obtained my Master's degree of Software Engineering in the autumn of 2023 from Guangxi Normal University. 
 
