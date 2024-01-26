@@ -12,9 +12,9 @@ Even though I've started working in the corporate world, pursuing a Ph.D. is sti
 
 ## Education
 
-* M.Eng. School of Computer Science and Engineering, Guangxi Normal University, 2020.09-2023.07.
+* M.Eng. School of Computer Science and Engineering, Guangxi Normal University, 2020.09.13-2023.06.14
 
-* B.Eng. School of Computer and Information, Anhui Normal University, 2016.09-2020.07.
+* B.Eng. School of Computer and Information, Anhui Normal University, 2016.09.03-2020.07.01
 
 ## Research Area
 
@@ -58,4 +58,4 @@ Python, Java, C/C++, HTML/CSS, Xtext, Xtend, React, Latex, Git, Markdown.
 
 - **Mandarin** native language
 
-- **Cantonese**
+- **Cantonese** learning
